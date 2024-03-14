@@ -1,0 +1,7 @@
+-- wildcard
+-- Semaphore                           // done
+-- CompletableFuture // asy
+-- Immutable Class
+-- ThreadLocal                         // done
+-- Singleton with thread               // done
+-- DataInputOutputStream class
