@@ -1,7 +1,6 @@
 -- wildcard
--- Semaphore
+-- Semaphore                           // done
 -- CompletableFuture // asy
--- Immutable Class
--- ThreadLocal
--- Singleton with thread
--- DataInputOutputStream class
+-- Immutable Class                     // done
+-- ThreadLocal                         // done
+-- Regex
