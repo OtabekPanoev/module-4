@@ -1,6 +1,0 @@
--- wildcard
--- Semaphore                           // done
--- CompletableFuture // asy
--- Immutable Class                     // done
--- ThreadLocal                         // done
--- Regex
